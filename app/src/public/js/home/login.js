@@ -11,5 +11,5 @@ function login() {
         id: id.value,
         psword: psword.value,
     };
-    
+    console.log(req);
 }
